@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paramveer Singh</h1>
 <h3 align="center">A passionate senior web developer from India</h3>
+<p>Innovative Senior Web Developer with a passion for crafting cutting-edge web applications. With 8 years of experience, I excel in pushing the boundaries of technology to create seamless user experiences. A firm believer in the power of collaboration, I thrive in environments that challenge creativity and foster learning.Outside of work, I dedicate myself to staying ahead of the curve, constantly learning and keeping abreast of the latest technologies to ensure my skills remain sharp and relevant.</p>
 
 - 🔭 I’m currently working on [Touchnote webapp and website](https://touchnote.com/uk/)
 

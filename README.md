@@ -1,29 +1,62 @@
-<h1 align="center">Hi 👋, I'm Paramveer Singh</h1>
-<h3 align="center">A passionate senior web developer from India</h3>
-<p>Innovative Senior Web Developer with a passion for crafting cutting-edge web applications. With 8 years of experience, I excel in pushing the boundaries of technology to create seamless user experiences. A firm believer in the power of collaboration, I thrive in environments that challenge creativity and foster learning.Outside of work, I dedicate myself to staying ahead of the curve, constantly learning and keeping abreast of the latest technologies to ensure my skills remain sharp and relevant.</p>
+# Paramveer Singh
 
-- 🔭 I’m currently working on [Touchnote webapp and website](https://touchnote.com/uk/)
+**Senior Full Stack Engineer** | Java, Spring Boot, React, Kafka | Dubai, UAE
 
-- 🌱 I’m currently learning **Node JS and AWS**
+I build real-time, data-heavy products end to end: Java and Spring Boot microservices, Kafka and Flink pipelines, and React and Next.js interfaces. Over 10+ years I've worked across telecom, banking, insurance and e-commerce for Etisalat (e&), Touchnote, Barclays, BCBSMA, ADIB and Expedia.
 
-- 👯 I’m looking to collaborate on **open source projects related to web development, particularly those using React, Angular, or Next.js**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paramveer-singh-3623a9183)
+[![Portfolio](https://img.shields.io/badge/Portfolio-13293D?style=flat-square&logo=netlify&logoColor=white)](https://paramveer-singh.netlify.app)
+[![Email](https://img.shields.io/badge/Email-0F8B8D?style=flat-square&logo=gmail&logoColor=white)](mailto:paramsinghkhattra@gmail.com)
 
-- 💬 Ask me about **react, angular, javascript, java**
+## What I'm working on
 
-- 📫 How to reach me **paramsinghkhattra@gmail.com**
+At **Etisalat (e&)** I work on data-monetization and marketing platforms: Spring Boot services, Kafka and Flink pipeline tooling, and React and Next.js front ends for the teams who run large-scale campaigns.
 
-- ⚡ Fun fact **I love freelancing**
+## Highlights
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/paramveer-singh-3623a9183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paramveer-singh-3623a9183" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/param_khattra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="param_khattra" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/paramvsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="paramvsi" height="30" width="40" /></a>
-</p>
+| Project | What it is | Result |
+|---|---|---|
+| **Real-Time Campaign Platform** · e& | Self-service platform for streaming and scheduled campaigns | 4M records/sec, 99.99% uptime |
+| **Pipeline Builder** · e& | Metadata-driven UI for configuring data pipelines | 60% faster pipeline setup, 17 micro-frontends |
+| **Real-Time Traffic Dashboard** · Abu Dhabi DMT | City-wide traffic telemetry, event logs and KPIs | Sub-second refresh |
+| **E-commerce Platform Redesign** · Touchnote | SEO-first storefront rebuild on Next.js | Lighthouse 90+, +7% conversions month over month |
+| **Digital Banking Services** · Barclays (via IBM) | Java services for authentication, accounts and payments | Millions of daily transactions, 20% faster APIs |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer">  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> | <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> | </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> | <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> | <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> | <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> | <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> | <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> | <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> | <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> | <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> | <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> | <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> | <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+These are client and employer systems, so their code is private. The repositories pinned below are my own projects.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paramvsi&show_icons=true&locale=en&layout=compact" alt="paramvsi" /></p>
+## Tech stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paramvsi&show_icons=true&locale=en" alt="paramvsi" /></p>
+**Backend**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)
+
+**Data and messaging**
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Apache Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+
+**Cloud, DevOps and testing**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
+
+## Open to
+
+Senior full-stack and backend engineering roles. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/paramveer-singh-3623a9183) or [email](mailto:paramsinghkhattra@gmail.com).
